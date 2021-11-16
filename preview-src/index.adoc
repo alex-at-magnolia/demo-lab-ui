@@ -1,0 +1,40 @@
+= Hardware and Software Requirements
+Author Name
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:page-layout: default
+
+[.cards.cards-4.personas.conceal-title]
+== {empty}
+
+[.focus]
+test xref:test.adoc[]
+
+[.collapse]
+collapse me 
+
+[.collapse-content]
+now you see me
+
+.Sidebar
+****
+Sidebar content
+
+Goes here
+****
+
+[NOTE.best]
+====
+testing testing
+====
+
+// note, you can only use it while using the block call for admonition blocks - inline won't work (ex: NOTE:)
+[NOTE.alt,caption=Whatever you need to talk about]
+====
+stuff goes here
+====
+
+image::raccoon.png[role="zoom"]
