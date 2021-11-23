@@ -51,7 +51,7 @@
   --scrollbar-thumb-color: var(--color-gray-10);
   /* navbar */
   --navbar-background: black;
-  --navbar-font-color: var(--color-primary-dark-green);
+  --navbar-font-color: var(--color-green-reflex);
   --navbar_hover-background: var(--color-smoke-90);
   --navbar-button-background: var(--color-green-reflex);
   --navbar-button-border-color: var(--panel-border-color);

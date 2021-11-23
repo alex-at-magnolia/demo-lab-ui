@@ -41,14 +41,14 @@ body {
 
   .navbar-end > .navbar-item,
   .navbar-end .navbar-link {
-    color: var(--color-gray-dark);
+    color: whitesmoke;
     transition: 0.2s ease;
     outline: none;
   }
 
   .navbar-end > a.navbar-item:hover,
   .navbar-end .navbar-link:hover {
-    color: var(--color-primary-dark-green);
+    color: var(--color-green-reflex);
     border: none;
     font-weight: inherit;
   }
