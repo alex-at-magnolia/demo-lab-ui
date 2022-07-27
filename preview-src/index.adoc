@@ -7,8 +7,37 @@ Author Name
 :page-pagination:
 :page-layout: default
 
-[.cards.cards-4.personas.conceal-title]
-== {empty}
+Testing
+
+// [.beforeAfter]
+// == {empty}
+
+// [discrete] 
+// == Discrete Heading
+// image:raccoon.png[]
+// image:sketch-arrows.png[]
+
+++++
+<div class="beforeAfter">
+  <img src="raccoon.png" />
+  <img src="sketch-arrows.png" />
+</div>
+++++
+
+// [.cards.cards-4.personas.conceal-title]
+// == {empty}
+
+// [.card]
+// === Welcome
+
+// PLACEHOLDER
+
+// * xref:test.adoc[test]
+// * xref:test.adoc[test]
+// * xref:test.adoc[test]
+// * xref:test.adoc[test]
+
+---
 
 [.focus]
 test xref:test.adoc[]
